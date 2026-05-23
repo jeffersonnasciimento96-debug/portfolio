@@ -31,8 +31,7 @@ Busco criar soluções eficientes e escaláveis, sempre aplicando boas práticas
 ### 📫 Contato
 📍 Nova Iguaçu, RJ – Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/jefferson-nascimento-437666363/)  
-📧 jefferson.nascimento.dev@gmail.com  
-
+📧 jeffersonnasciimento96@gmail.com
 ---
 
 ⭐ *“A tecnologia é o meio, mas a criatividade é o motor.”*
