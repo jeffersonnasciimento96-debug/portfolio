@@ -15,11 +15,20 @@ Busco criar soluções eficientes e escaláveis, sempre aplicando boas práticas
 
 ---
 
-### 📈 Projetos em Destaque
-- [Sistema CRUD com Flask](#)  
-- [API REST com Node.js](#)  
-- [Dashboard interativo com React](#)  
+## 📈 Projetos em Destaque
 
+### 🐍 [Sistema CRUD com Flask](https://github.com/jeffersonnasciimento96-debug/crud-flask)
+Aplicação web para gerenciamento de registros (CRUD), construída com **Flask** e integrada a banco de dados SQL.
+
+---
+
+### ⚡ [API REST com Node.js](https://github.com/jeffersonnasciimento96-debug/api-node)
+API RESTful desenvolvida em **Node.js/Express**, com autenticação JWT e integração com banco de dados relacional.
+
+---
+
+### 📊 [Dashboard Interativo com React](https://github.com/jeffersonnasciimento96-debug/dashboard-react)
+Dashboard moderno e responsivo em **React**, com gráficos dinâmicos para visualização de métricas em tempo real.
 ---
 
 ### 📫 Contato
